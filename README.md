@@ -1,8 +1,9 @@
-- 👋 Hello, i'm karll0424
-- 👀 I’m interested in ... mango
-- 🌱 I’m currently learning ... lua + c# + python
-- 💞️ I’m looking to collaborate on ... no (i'm not EXPERIENCED enough yet... sowwy...)
-- 📫 How to reach me ... idk
+hi reader im karll0424
+- i code in lua and c#
+- working on a game project (not public!!!)
+- also working on other stuff which ill have in my repos
+
+(i dont use github often, so this is a work in progess)
 
 <!---
 karll0424/karll0424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
